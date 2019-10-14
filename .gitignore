@@ -1,0 +1,8 @@
+
+# ignore output files
+output_*.txt 
+
+# ignore cache files
+__pycache__/*
+.vscode/*
+data/*
